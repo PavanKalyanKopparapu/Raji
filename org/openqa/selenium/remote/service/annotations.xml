@@ -1,0 +1,7 @@
+<root>
+    <item name='org.openqa.selenium.remote.service.DriverService java.io.File findExecutable(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_,_,_,_-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>

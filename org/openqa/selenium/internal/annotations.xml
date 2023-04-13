@@ -1,0 +1,7 @@
+<root>
+    <item name='org.openqa.selenium.internal.Require.FileStateChecker java.io.File isFile()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
